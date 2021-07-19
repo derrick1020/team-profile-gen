@@ -5,6 +5,7 @@
 The Team generator allows a user quickly generate a website showcasing their team of employees. The user is prompted with a list of questions that differs depending on the employee role.
 
 ![website screenshot](img/team.png)
+https://user-images.githubusercontent.com/77812181/126204587-055a1c9a-34f4-4395-ac06-76dc0390dd93.mp4
 
 ## Installation
 
